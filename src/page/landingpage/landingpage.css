@@ -1,0 +1,22 @@
+.herodiv{
+    display: flex;
+    justify-content: space-evenly;
+    background-color:#DA251C;
+    color: white;
+    height: 69vh;
+}
+.leftdiv{
+    text-align: left;
+    margin-top: 150px;
+    font-size:large;
+    margin-left: 80px;
+    line-height: 50px;
+}
+.smalltext{
+    line-height: 25px;
+    
+}
+.rightdiv{
+    padding-top: 70px;
+}
+

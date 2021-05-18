@@ -1,0 +1,35 @@
+.navdiv{
+display: flex;
+justify-content: space-evenly;
+background-color: white;
+}
+
+.logo{
+    padding-top: 10px;
+}
+
+.navmenu{
+    display: inline-flex;
+    list-style: none;
+    padding-top: 52px;
+    font-size: 18px;
+    font-weight: 400;
+    color: #DA251C;
+}
+.navmenu li{
+    margin-right: 20px;
+    cursor: pointer;
+}
+.navmenu :hover{
+    color: #3D2A7B ;
+}
+.getstarted{
+    background-color: transparent;
+    border: 2px solid #3D2A7B;
+    border-radius: 12px;
+    font-weight: 400;
+    font-size: 18px;
+    padding: 2px;
+    width:130px;
+    color: #DA251C;
+}

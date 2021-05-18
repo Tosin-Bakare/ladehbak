@@ -1,0 +1,9 @@
+.getstarted{
+    background-color: transparent;
+    border: 2px solid red ;
+    border-radius: 12px;
+    font-weight: 400;
+    font-size: 18px;
+    padding: 2px;
+    width:130px;
+}
